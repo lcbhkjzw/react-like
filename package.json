@@ -1,0 +1,11 @@
+{
+  "name": "react-like",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:lcbhkjzw/react-like.git",
+  "author": "liucb <liucb>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^3.8.3"
+  }
+}
